@@ -1,0 +1,7 @@
+num1 = input("Введите первое число")
+num2 = input("Введите второе число")
+num3 = input("Введите третье число")
+num1 = int(num1)
+num2 = int(num2)
+num3 = int(num3)
+print(num1 + num2 + num3)
